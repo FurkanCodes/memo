@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/memo/static/css/main.ffaf5044.css",
+    "main.js": "/memo/static/js/main.f7d7d600.js",
+    "index.html": "/memo/index.html",
+    "main.ffaf5044.css.map": "/memo/static/css/main.ffaf5044.css.map",
+    "main.f7d7d600.js.map": "/memo/static/js/main.f7d7d600.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffaf5044.css",
+    "static/js/main.f7d7d600.js"
+  ]
+}
