@@ -4,11 +4,11 @@ import './App.css';
 import SingleCard from './components/SingleCard';
 
 const cardImgs = [
-  {"src": "imgs/1.jpg", matched: false},
-  {"src": "imgs/2.jpg", matched: false},
-  {"src": "imgs/3.jpg", matched: false},
-  {"src": "imgs/4.jpg", matched: false},
-  {"src": "imgs/5.jpg", matched: false},
+  {"src": "/imgs/1.jpg", matched: false},
+  {"src": "/imgs/2.jpg", matched: false},
+  {"src": "/imgs/3.jpg", matched: false},
+  {"src": "/imgs/4.jpg", matched: false},
+  {"src": "/imgs/5.jpg", matched: false},
 ];
 
 
