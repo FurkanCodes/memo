@@ -20,7 +20,7 @@ export default function SingleCard({card, handleChoice, flipped, disabled}) {
             alt='card front'/>
 
             <img className='cover' 
-            src="/imgs/cover.svg" 
+            src="imgs/cover.svg" 
             onClick={handleClick}
             alt='card cover' />
 
