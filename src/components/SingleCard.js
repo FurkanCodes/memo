@@ -1,7 +1,6 @@
 import React from 'react';
 import './SingleCard.css';
 
-
 export default function SingleCard({card, handleChoice, flipped, disabled}) {
 
     const handleClick = () => {
@@ -20,7 +19,7 @@ export default function SingleCard({card, handleChoice, flipped, disabled}) {
             alt='card front'/>
 
             <img className='cover' 
-            src="/imgs/cover.svg" 
+            src="memo/img/cover.jpg"
             onClick={handleClick}
             alt='card cover' />
 
